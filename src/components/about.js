@@ -1,8 +1,14 @@
+import ItemListContainer from "./ItemListContainer.jsx"
+
+
 const About = () =>  {
+
+
      
     return(
         <div>
-            <h1>view About</h1>
+            <h1>productos</h1>
+              <ItemListContainer/>
         </div>
     )
 }

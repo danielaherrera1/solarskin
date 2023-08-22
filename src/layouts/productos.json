@@ -1,0 +1,93 @@
+[
+    
+{
+    "id": 1,
+    "nombre": "Eucerin",
+    "imagen": "https://assets.atida.com/transform/202ebcda-9520-46e8-8f18-27ecff4c12c9/Eucerin-Sun-Facial-Gel-Crema-Oil-Control-Dry-Touch-SPF30-50-ml?io=transform:extend,width:260,height:260",
+    "precio": 14.699,
+    "formato": "50ml",
+     "fps": 50,
+    "caracteristica": " No graso ni pegajoso, No comedogénico. Sin fragancia. Libre de parabenos.",
+    "stock":15
+},
+{
+    "id": 2,
+    "nombre": "La Roche-Posay",
+    "imagen": "https://www.laroche-posay.cl/-/media/project/loreal/brand-sites/lrp/america/latam/products/anthelios/med-sun-intolerance-spf50-plus/la-roche-posay-productpage-sun-anthelios-med-sun-intolerance-spf50-50ml-3337875591515-front.png",
+    "precio": 15.990,
+    "formato": "150ml",
+     "fps": 50,
+     "caracteristica": " Textura no grasa, no pegajosa y sin marcas blancas. Hipoalergénico, testeado bajo control dermatológico.Protección alta y resistente al agua",
+      "stock":10
+},
+{
+    "id": 3,
+    "nombre": "Isdin",
+    "imagen":  "https://www.isdin.com/assets/cms/images/es_HydroOil_2020-1582720614642.png",
+    "precio": 16.990,
+    "formato": "60ml",
+     "fps": 30,
+     "caracteristica": "Fotoprotección ultraligera de uso diario para actividades al aire libre",
+      "stock":7
+},
+{
+    "id": 4,
+    "nombre": "Loreal",
+    "imagen": "https://www.lorealparis.cl/-/media/project/loreal/brand-sites/oap/americas/latam/products/skin-care/face-care/uv-defender/cuidado-diario-anti-fotoenvejecimiento-anti-brillo-fps-50/packshots/crema-hidratante-anti-brillo-uv-defender-packshot-v3.png",
+    "precio": 8.990,
+    "formato": "30ml",
+     "fps": 60,
+     "caracteristica": "Es Un Cuidado Diario Con Una Exclusiva Tecnología Combinando Muy alta Protección Fps 50+ y Ácido Hialurónico Puro ",
+      "stock":10
+},
+{
+    "id": 5,
+    "nombre": "Relief Sun",
+    "imagen": "https://inspiredbyparadiso.com/cdn/shop/products/211013_Reliefsun_1_9f57f71b-79e5-4e1d-82f0-49a249dc00d8.png?v=1672201040",
+    "precio": 20.990,
+    "formato": "75ml",
+     "fps": 50,
+     "caracteristica": "Protector solar de alto espectro (protección UVB y UVA) de textura ligera y fácil absorción sin dejar capa blanca ni grumos en la piel. ",
+      "stock":20
+},
+{
+    "id": 6,
+    "nombre": "I'M Aqua Sun Essence de Suntique",
+    "imagen": "https://assets.atida.com/transform/2c17a618-f689-4b09-b61c-707b5ec1f84d/Suntique-I-m-Aqua-Sun-Essence-SPF50-50-ml?io=transform:extend,width:260,height:260",
+    "precio": 25.990,
+    "formato": "85ml",
+     "fps": 50,
+     "caracteristica": "Hecho a base de agua y formulado con la relajante Centella Asiática y Aloe Vera.",
+      "stock":10
+},
+{
+    "id": 7,
+    "nombre": "Centella Soothing Sun Essence de Barr",
+     "imagen": "https://asianblossom.lt/image/cache/catalog/Barr/barr%20centella%20soothing%20essence%201-600x600.webp",
+    "precio": 29.990,
+    "formato": "100ml",
+     "fps": 50,
+     "caracteristica": "Ofrece una excelente protección contra los rayos UVA y UVB, sin dejar una sensación grasa ni pegajosa en la piel.",
+      "stock":10
+},
+{
+    "id": 8,
+    "nombre": " Tonymoly",
+     "imagen": "https://mysteriumbeauty.com/cdn/shop/products/Protector_2_600x.png?v=1647250321",
+    "precio": 28.990,
+    "formato": "80ml",
+     "fps": 40,
+     "caracteristica": "De textura fresca, no pegajosa, protege la piel con un dulce aroma a Mango sin dejar residuos blancos",
+      "stock":25
+},
+{
+    "id": 9,
+    "nombre": " Missha All Around Safe Block Cotton Sun",
+     "imagen": "https://fres-ka.com/cdn/shop/products/MISSHACUSHION.png?v=1678211800",
+    "precio": 19.990,
+    "formato": "50ml",
+     "fps": 50,
+     "caracteristica": "Contiene polvo sebáceo que crea un acabado sin brillos, además crea una capa transparente y natural que ilumina y corrige el tono de la piel",
+      "stock":3
+}
+]
