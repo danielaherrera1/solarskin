@@ -1,19 +1,4 @@
 
-/*desde aca
-import { useContext } from "react"
-import Item from "./Item"
-import ItemCount from "./ItemCount"
-import { CartContext } from "../layouts/CartContext"
-
-const ItemDetail = ({item}) => {
-
-     const { carrito, agregarAlCarrito} = useContext(CartContext)
-     console.log(carrito);
-
-*/
-
-
-/*desde aca*/ 
 import { useContext, useState } from "react";
 import ItemCount from "./ItemCount"
 import Item from "./Item"
@@ -34,7 +19,7 @@ const ItemDetail = ( {item} ) => {
     const handleSumar = () => {
         cantidad < item.stock && setCantidad(cantidad + 1)
     }
-/*hasta aca*/
+
 
 
     return(

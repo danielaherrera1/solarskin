@@ -10,6 +10,7 @@ import { Navbar } from 'react-bootstrap';
 import ItemListContainer from './components/ItemListContainer';
 import { CartProvider } from './layouts/CartContext';
 import Carrito from './components/Carrito';
+import Checkout from './layouts/Checkout';
 
 
 function App() {
@@ -30,6 +31,7 @@ function App() {
           <Route path='/item/:id' element={<ItemDetailContainer />} />
           <Route path='/contact'  element={<Contact/>}/>
           <Route path='/carrito'  element={<Carrito />}/>
+          <Route path='/checkout'  element={<Checkout />}/>
           <Route path='*' element={< Navigate replage to="/"/> }/>
         </Route>
       </Routes>

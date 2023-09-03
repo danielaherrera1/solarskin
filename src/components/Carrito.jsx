@@ -18,8 +18,6 @@ const Carrito = () => {
                 <div key={prod.id}>
                   <h2>{prod.nombre}</h2>
                   <p>Precio unitario: ${prod.precio}</p>
-                  
-                  <p>Precio total: ${precioTotal()}</p>
                   <p>Precio total: ${prod.precio * prod.cantidad}</p>
                   <p>Cant: {prod.cantidad}</p>
                 </div>
@@ -29,11 +27,13 @@ const Carrito = () => {
         }
         
         {
-           carrito.length > 0 ?
-             <>
+           carrito.length > 0 
+           ?
+             <div>
                 <h2>Precio total: ${precioTotal()}</h2>
                 <button onClick={handlerBorrar}>Borrar</button>
-             </>:
+                <a href="/checkout" onClick={handlerBorrar} style={{marginLeft: '10px'}}><button>Comprar</button></a>
+             </div>:
              <h2>El carrito esta vacío</h2>
         }
        
